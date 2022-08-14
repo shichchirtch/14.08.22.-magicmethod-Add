@@ -3,4 +3,4 @@ class Object:
         self.data = data
         self.next = None
 
-    new funk
+    new
